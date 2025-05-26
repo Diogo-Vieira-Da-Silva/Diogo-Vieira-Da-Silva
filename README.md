@@ -1,7 +1,9 @@
 Formation: I'm 18 years old. I completed High School, currently coursing a course at Senac about programming and development of softwares, nowadays I learn about Java Script, CSS and HTML. Beign a fullstack.
+|
 Formação:  Tenho 18 anos. Possuo Ensino Médio concluído, atualmente cursando um curso do Senac sobre programação e desenvolvimento de softwares, atualmente já aprendendo Java Script, CSS e HTML. Sendo um fullstack. 
 
 Level of English: Advanced.
+|
 Nível de Inglês: Avançado.
 
 <!--
